@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-[Github Page] (https://github.com/verlooy)
+Github repo: https://github.com/verlooy
