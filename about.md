@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Github repo: https://github.com/verlooy
+Github: https://github.com/verlooy
+Twitter: https://twitter.com/lukeverlooy
