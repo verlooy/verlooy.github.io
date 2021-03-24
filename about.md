@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Github: https://github.com/verlooy
+[Github](https://github.com/verloo)
 
-Twitter: https://twitter.com/lukeverlooy
+[Twitter](https://twitter.com/lukeverlooy)
